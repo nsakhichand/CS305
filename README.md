@@ -14,7 +14,7 @@ The most challenging part of the vulnerability assessment was manually reviewing
 
 4. How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
-To increase layers of security, I recommended implementing input validation, using secure API design practices, and incorporating cryptography for data protection. Moving forward, I would employ automated tools like static code analyzers (e.g., SonarQube) alongside manual reviews to assess vulnerabilities. For mitigation, I would use established frameworks like OWASP's guidelines to decide on techniques, ensuring a structured approach to security enhancements.
+To increase layers of security, I recommended implementing input validation, using secure API design practices, and incorporating cryptography for data protection. Moving forward, I would employ automated tools like static code analyzers (ex. SonarQube) alongside manual reviews to assess vulnerabilities. For mitigation, I would use established frameworks like OWASP's guidelines to decide on techniques, ensuring a structured approach to security enhancements.
 
 5. How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
